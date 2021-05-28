@@ -9,5 +9,8 @@
         <module name="mvn-recipe-2-1-i-JavaConfigToConfigurePOJOs" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mvn-recipe-2-1-i-JavaConfigToConfigurePOJOs" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
